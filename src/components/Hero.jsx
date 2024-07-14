@@ -1,5 +1,5 @@
 import React from "react";
-import videoLink from "../assets/videos/video-2.mp4";
+import videoLink from "../assets/videos/video-1.mp4";
 import Button from "./Button";
 
 const Hero = () => {

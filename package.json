@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://amit672002.github.io/travel-template/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
